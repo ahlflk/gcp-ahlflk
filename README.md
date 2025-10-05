@@ -43,7 +43,7 @@ This project allows you to deploy a **VLESS proxy** server over **WebSocket** us
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/TG-@AHLFLK2025channel"
+          "path": "/t.me/AHLFLK2025channel"
         }
       }
     }
@@ -113,7 +113,7 @@ Use the following settings in your client app:
 | UUID       | `3675119c-14fc-46a4-b5f3-9a2c91a7d802` |
 | Encryption | none                                   |
 | Transport  | WebSocket (WS)                         |
-| WS Path    | `/TG-@AHLFLK2025channel`                           |
+| WS Path    | `/t.me/AHLFLK2025channel`                           |
 | TLS        | Yes (via Google CDN)                   |
 
 ---

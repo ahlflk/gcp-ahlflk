@@ -6,7 +6,7 @@
       "settings": {
         "clients": [
           {
-            "id": "3675119c-14fc-46a4-b5f3-9a2c91a7d802",
+            "id": "36459fd0-0c89-4733-b20e-067ffc341bd2",
             "level": 0
           }
         ],
@@ -15,7 +15,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/TG-@AHLFLK2025channel"
+          "path": "/t.me/AHLFLK2025channel"
         }
       }
     }
